@@ -1,4 +1,3 @@
-import Archetype from '.';
 import { EnergyType } from '../Energy';
 
 abstract class Archetype {

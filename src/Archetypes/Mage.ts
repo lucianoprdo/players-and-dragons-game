@@ -16,7 +16,7 @@ export default class Mage extends Archetype {
     return this._energy;
   }
 
-  static createdArchetypeInstances(): nunber {
+  static createdArchetypeInstances(): number {
     return Mage._instances;
   }
 }
