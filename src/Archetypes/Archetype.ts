@@ -1,7 +1,7 @@
 import Archetype from '.';
 import { EnergyType } from '../Energy';
 
-abstract class {
+abstract class Archetype {
   private _name: string;
   private _special: number;
   private _cost: number;
